@@ -4,10 +4,14 @@
 
 <p align="left">Desarrolladora Web Front End</p>
 
-<p align="left">Mi formación en ingeniería me ha proporcionado las herramientas esenciales para resolver problemas complejos, análisis de datos, identificar oportunidades y recopilar información clave para desarrollar soluciones óptimas que satisfagan las necesidades del cliente. Esta base técnica se complementa perfectamente con mi formación en diseño, que ha potenciado mi creatividad y capacidad para desarrollar soluciones innovadoras para cada proyectos.<br><br>Gracias a esta combinación de habilidades, tengo la capacidad única de abordar el desarrollo front-end desde una perspectiva tanto técnica como creativa, lo que me permite crear interfaces de usuario que no solo son funcionales, sino también estéticamente agradables y orientadas a la experiencia del usuario.</p>
+<p align="left">Hola, soy Javiera, una desarrolladora front-end de Chile. Durante mucho tiempo, busqué la manera de combinar mis dos pasiones: la ingeniería y el diseño, y encontré en el desarrollo front-end la perfecta fusión de ambas. Esta combinación de habilidades me permite abordar cada proyecto desde una perspectiva tanto técnica como creativa, creando interfaces de usuario que no solo son funcionales, sino también estéticamente atractivas y centradas en la experiencia del usuario.
 <br>
-<p>En lo personal he desarrollado un fuerte espíritu de trabajo en equipo, iniciativa y proactividad. Soy una persona responsable, organizada y sociable, lo que me permite adaptarme rápidamente a nuevos entornos laborales y aprender de forma ágil. Me motiva la idea de contribuir a proyectos que me ofrezcan oportunidades para seguir creciendo profesionalmente.</p>
-###
+En los últimos 6 meses, he dedicado mi tiempo a profundizar en HTML, CSS y JavaScript, desarrollando desde landing pages hasta integraciones con APIs. Ha sido increíble ver mi progreso en tan poco tiempo, lo que me ha motivado aún más a seguir aprendiendo y creciendo en este campo.
+<br>
+En lo personal, he cultivado un fuerte espíritu de trabajo en equipo, iniciativa y proactividad. Soy una persona responsable, organizada y sociable, lo que me permite adaptarme rápidamente a nuevos entornos laborales. Me entusiasma la idea de contribuir a proyectos que me ofrezcan oportunidades para seguir desarrollándome profesionalmente.
+<br>
+Puedes contactarme a través de mi email: javiera.maldonado.agurto@gmail.com</p>
+
 
 <h2 align="left">Tecnologías que manejo</h2>
 
