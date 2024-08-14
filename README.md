@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Mi formación en ingeniería me ha proporcionado las herramientas esenciales para resolver problemas complejos, analizar datos y resultados, identificar oportunidades y recopilar información clave para desarrollar soluciones óptimas que satisfagan las necesidades del cliente. Esta base técnica se complementa perfectamente con mi formación en diseño, que ha potenciado mi creatividad y capacidad para desarrollar soluciones innovadoras, enfocadas en la eficiencia y la gestión de proyectos.<br><br>Gracias a esta combinación de habilidades, tengo la capacidad única de abordar el desarrollo front-end desde una perspectiva tanto técnica como creativa, lo que me permite crear interfaces de usuario que no solo son funcionales, sino también estéticamente agradables y orientadas a la experiencia del usuario.</p>
+<p align="left">Mi formación en ingeniería me ha proporcionado las herramientas esenciales para resolver problemas complejos, análisis de datos, identificar oportunidades y recopilar información clave para desarrollar soluciones óptimas que satisfagan las necesidades del cliente. Esta base técnica se complementa perfectamente con mi formación en diseño, que ha potenciado mi creatividad y capacidad para desarrollar soluciones innovadoras para cada proyectos.<br><br>Gracias a esta combinación de habilidades, tengo la capacidad única de abordar el desarrollo front-end desde una perspectiva tanto técnica como creativa, lo que me permite crear interfaces de usuario que no solo son funcionales, sino también estéticamente agradables y orientadas a la experiencia del usuario.</p>
 
 ###
 
